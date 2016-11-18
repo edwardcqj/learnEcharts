@@ -1,0 +1,23 @@
+{
+  "name": "learnEcharts",
+  "version": "1.0.0",
+  "description": "learn echarts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardcqj/learnEcharts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardcqj/learnEcharts/issues"
+  },
+  "homepage": "https://github.com/edwardcqj/learnEcharts#readme",
+  "dependencies": {
+    "echarts": "^3.3.1"
+  }
+}
